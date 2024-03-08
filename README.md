@@ -7,7 +7,7 @@
 ## Feature List
 <details>
   <summary>Click to show</summary>
-  kote hindu sex man
+  tok ang babi
   
   | Cheat | Description |
   |----------|----------|
