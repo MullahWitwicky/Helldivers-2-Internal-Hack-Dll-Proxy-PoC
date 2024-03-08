@@ -14,7 +14,7 @@
 HANDLE hMainThread;
 HMODULE g_hModule;
 
-// Function to Hindu Sex
+// Function to Tok hang
 // Function to initialize and show the console window
 void InitializeConsole() {
     FILE* pFile = nullptr;
