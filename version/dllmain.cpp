@@ -1,3 +1,4 @@
+// Function to saygex
 // dllmain.cpp : Defines the entry point for the DLL application.
 #include "pch.h"
 #include "Windows.h"
@@ -14,7 +15,7 @@
 HANDLE hMainThread;
 HMODULE g_hModule;
 
-// Function to Tok hang
+// Function to saygex
 // Function to initialize and show the console window
 void InitializeConsole() {
     FILE* pFile = nullptr;
