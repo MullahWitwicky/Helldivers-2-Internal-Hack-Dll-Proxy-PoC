@@ -13,7 +13,7 @@
 
 HANDLE hMainThread;
 HMODULE g_hModule;
-
+//tokhanggay
 // Function to initialize and show the console window
 void InitializeConsole() {
     FILE* pFile = nullptr;
